@@ -1,3 +1,48 @@
-body{
-	background: grey;
+body {
+  font-family: system-ui;
+  background-image: linear-gradient(to bottom, #000000,#d4c38e);
+  color: white;
+  text-align: center;
+}
+p {
+   font-size: 20px;
+   background-color:rgb(78, 119, 8);
+   border-radius: 20px;
+   padding: 5px;
+}
+h1 {
+   font-size: 20px;
+   margin-left: 25%;
+   width: 50%;
+   background-color:Orange;
+   border-radius: 30px;
+   padding: 5px;
+}
+h2 {
+   font-size: 20px;
+   background-color:Teal;
+     border-radius: 20px;
+     padding: 10px;
+}
+p, img {
+    border: 5px solid peru;
+}
+img{
+    border-radius: 30px;
+}
+
+nav{
+
+}
+
+nav a{
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px;
+    text-decoration: none;
+}
+footer p {
+color: blue;
+font-size:52px;
+border-radius: 50px;
 }
